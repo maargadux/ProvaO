@@ -1,4 +1,4 @@
-# 🐾 VetsmartAPI
+# 🐾 API VET
 
 Sistema de gestão inteligente para clínicas veterinárias, desenvolvido com **Spring Boot**.
 
